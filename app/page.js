@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div className={styles.page}>
-      <h1>Piccadilly tes</h1>
+      <h1>Piccadilly</h1>
     </div>
   );
 }
